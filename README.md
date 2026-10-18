@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33614682/README.md)
 # GestãoArq
 
 Sistema de gestão para escritórios de arquitetura e interiores: orçamentos pela hora técnica, projetos com tarefas e prazos automáticos, financeiro e painel de indicadores.
